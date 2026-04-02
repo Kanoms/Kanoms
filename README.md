@@ -21,16 +21,7 @@
 
 ### 🧑‍💻 About Me
 
-```typescript
-const kelechi = {
-  name: "Kelechi Anomneze",
-  role: "Software Engineer",
-  experience: "3 years",
-  passion: ["Building scalable applications", "Clean architecture", "Great UX"],
-  currentFocus: "Full Stack Development",
-  funFact: "I debug with console.log and I'm proud of it 😄",
-};
-```
+I am Kelechi Anomneze, Full-Stack Developer of 3 years and Administrative Officer
 
 ---
 
