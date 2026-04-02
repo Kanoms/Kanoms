@@ -43,7 +43,7 @@ I am Kelechi Anomneze, Full-Stack Developer of 3 years and Administrative Office
 #### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,redux,nextjs&perline=8" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,redux,nextjs,vite&perline=9" alt="Frontend Skills" />
 </p>
 
 #### Backend
